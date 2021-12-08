@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "name": "new-folder",
+  "description": "��#\u0000 \u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000C\u0000o\u0000n\u0000v\u0000e\u0000r\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000#\u0000 \u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000C\u0000o\u0000n\u0000v\u0000e\u0000r\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezratechdev/CurrencyConverter.git"
+  },
+  "keywords": [
+    "currency",
+    "converter"
+  ],
+  "author": "Ezra Kipyegon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezratechdev/CurrencyConverter/issues"
+  },
+  "homepage": "https://github.com/ezratechdev/CurrencyConverter#readme"
+}
